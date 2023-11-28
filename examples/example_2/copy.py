@@ -16,7 +16,7 @@ if __name__ == "__main__":
     print("I AM CEILED!!::" + str(ceil(pi)))
     print("I AM FLOORED!!::" + str(floor(pi)))
     
-                                                        
+    
 
     print("I AM FAR AWAY MY FRIEND!!")
 
